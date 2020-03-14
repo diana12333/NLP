@@ -7,3 +7,5 @@ A note from nlp learning and algorithm implementations
 - calculate the transition probabilities
 - get the known words
 - get words and corresponding tag
+
+### LSTM&BERT for sentiment Analysis
